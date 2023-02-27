@@ -1,0 +1,1 @@
+python3 BE-Fastapi/app.py
